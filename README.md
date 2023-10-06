@@ -31,7 +31,7 @@ end
 
 local function notif(str,dur)
 	game:FindService("StarterGui"):SetCore("SendNotification", {
-		Title = "yeet gui",
+		Title = "lox ahaha",
 		Text = str,
 		Icon = "rbxassetid://2005276185",
 		Duration = dur or 3
